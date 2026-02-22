@@ -1,0 +1,8 @@
+name: ConnectedPlayerGeolocator
+version: '1.1.0'
+main: xyz.jackwalsh.connectedPlayerGeolocator.ConnectedPlayerGeolocator
+api-version: '1.21'
+load: STARTUP
+authors: [ Jlw111 ]
+description: Print player geolocation upon joining
+website: https://github.com/Jlw111/ConnectedPlayerGeolocator
